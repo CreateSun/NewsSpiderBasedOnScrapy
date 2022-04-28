@@ -1,5 +1,5 @@
 # NewsSpiderBasedOnScrapy
-## 通过Scrapy与Selenium结合，爬取网易新闻与央视新闻中的新闻数据。
+## 通过Scrapy与Selenium结合，爬取网易新闻与央视新闻中的新闻数据（包含已经爬到的近4k条数据）
 
 > 参考视频来自B站：https://www.bilibili.com/video/BV1ha4y1H7sx?share_source=copy_web
 
